@@ -1,0 +1,102 @@
+c:\users\hp\documents\visual studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.exe
+c:\users\hp\documents\visual studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.pdb
+c:\users\hp\documents\visual studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.exe
+c:\users\hp\documents\visual studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.pdb
+c:\users\hp\documents\visual studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.fDangNhap.resources
+c:\users\hp\documents\visual studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.fManager.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormNhanVien.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\BUS.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\DAL.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\BUS.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\DAL.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormPhieuNhap.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormTaiKhoan.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormNguyenLieu.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormThemPhieuNhap.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormChuyenBan.resources
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.exe.config
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.exe
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.pdb
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\DAL.dll
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\DAL.pdb
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormChuyenBan.resources
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.fDangNhap.resources
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.fManager.resources
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormNguyenLieu.resources
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormNhanVien.resources
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormPhieuNhap.resources
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormTaiKhoan.resources
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormThemPhieuNhap.resources
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.Properties.Resources.resources
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.exe
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.pdb
+C:\Users\hp\Desktop\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormGoiMon.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.exe.config
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.exe
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.pdb
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.exe
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.pdb
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\DAL.dll
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\DAL.pdb
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormChuyenBan.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.fDangNhap.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormGoiMon.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.fManager.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormNguyenLieu.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormNhanVien.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormPhieuNhap.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormTaiKhoan.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormThemPhieuNhap.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.Properties.Resources.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormHTTT.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormLoaiMonAn.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormMonAn.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormXuatHoaDon.resources
+C:\Users\hp\Desktop\Project\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormNhaBep.resources
+C:\Users\TienThanh\Documents\Visual Studio 2013\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.exe.config
+C:\Users\TienThanh\Documents\Visual Studio 2013\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.exe
+C:\Users\TienThanh\Documents\Visual Studio 2013\Projects\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.pdb
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.exe.config
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.exe
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.pdb
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormChuyenBan.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.fDangNhap.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormDoanhThu.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormGoiMon.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormNguyenLieu.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormNhaBep.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormXuat.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormXuatHoaDon.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormHTTT.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormLoaiMonAn.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.fManager.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormMonAn.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormNhanVien.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormTaiKhoan.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormXuatKho.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.FormXuatNhap.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.F_BaoCaoHoaDon.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.F_BaoCaoPhieuNhap.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.F_ChiTietPhieuNhap.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.F_PhieuNhapKho.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.Properties.Resources.resources
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\obj\Debug\QuanLyNhaHangQuanAn.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.exe
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\QuanLyNhaHangQuanAn.pdb
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\BUS.dll
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\DAL.dll
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\BUS.pdb
+C:\Users\hp\Desktop\TLCN_QuanLyNhaHang_Source\QuanLyNhaHangQuanAn\QuanLyNhaHangQuanAn\bin\Debug\DAL.pdb
