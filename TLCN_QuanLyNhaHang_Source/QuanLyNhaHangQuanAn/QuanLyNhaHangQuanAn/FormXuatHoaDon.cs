@@ -196,5 +196,11 @@ namespace QuanLyNhaHangQuanAn
             else
                 txtTongThanhToan.Text = txtTongTien.Text;
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormInHoaDon frmInHD = new FormInHoaDon(txtMaPhieuOrder.Text, lbNhanVien.Text, txtMaBan.Text, txtTongThanhToan.Text);
+            frmInHD.ShowDialog();
+        }
     }
 }
